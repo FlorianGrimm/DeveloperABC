@@ -35,6 +35,10 @@ Dictionary Human - Developer
 
 ## K
 
+## L
+- Leyer's Law - Wenn eine Website laut Pressestelle wegen einer DDoS-Attacke offline war, lag es meist an der fehlenden Skalierbarkeit der Lösung und nicht an einer Attacke.
+- Leyer's Law - If a website was offline - according to the press office - due to a DDoS attack  it was usually due to the solution's lack of scalability and not to an attack.
+
 ## M
 - Marketing - In the project livetime the last instance, that doesn't need understand the product, to draw diagrams, that are not UML and have potential to be misinterpretted -- but can change the product name 3 days before go live.
 
@@ -50,6 +54,9 @@ Dictionary Human - Developer
 - readme - anti-pattern nobody reads a readme - It's a write-only medium.
 
 ## S
+-Stoep's Law - Wenn ein Prozess Excel enthält, ist der Prozess kaputt. 
+-Stoep's Law - If a process contains Excel, the process is broken.
+
 
 ## T
 
